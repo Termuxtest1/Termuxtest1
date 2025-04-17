@@ -25,7 +25,7 @@
 
 ###
 
-<img align="right" height="220" src="https://github.com/Termuxtest1/About_Me/blob/main/Profile_pic.jpg?raw=true"  />
+<img align="right" height="220" src="https://github.com/Termuxtest1/Termuxtest1/blob/main/Profile_pic.jpg?raw=true"  />
 
 ###
 
