@@ -35,6 +35,9 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ravinajangra2019@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://github.com/Termuxtest1-Lavender/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="52" height="40"/>
+  </a>
   <a href="https://t.me/Termuxtest2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
